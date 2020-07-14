@@ -1,0 +1,3 @@
+Wish me luck
+I am practising file handling using python
+This is a text file

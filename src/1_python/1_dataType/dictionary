@@ -1,0 +1,8 @@
+dictionary = {1: "abc", "def": 2, 3: 4}
+print(dictionary)
+print(dictionary[1])
+print(dictionary["def"])
+print(dictionary['def'])
+
+dictionary["abcd"] = 123
+print(dictionary)
